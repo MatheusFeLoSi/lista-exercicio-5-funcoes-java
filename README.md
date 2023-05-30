@@ -1,2 +1,4 @@
 # lista-exercicio-5-funcoes-java
-Lista de atividades relacionadas a funções na linguagem java. 
+Neste repositório iremos encontrar algumas ativades
+relacionadas a funções e POO. Todas ativades foram 
+realizadas no Visual Studio Code e na linguagem JAVA.
